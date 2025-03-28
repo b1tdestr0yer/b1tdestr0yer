@@ -6,13 +6,13 @@
 ### <div align="center">I'm Andrei, a full-time Cyber Security Engineer, Security+, OSCP ans OSWP certified👨‍💻, working remotely since 2021🚀</div>  
   
 
-- 🔭 I’m currently working at ASSIST Software  
+- 🔭 I’m currently working at ASSIST Software. 🛠️
   
 
-- 🌱 I’m currently learning for the OSEP certification 
+- 🌱 I’m currently studying for the OSEP certification. 📜
   
 
-- 👀 Ask me about anything related to CTF Challenges and ☕  
+- 👀 Ask me about anything related to CTF Challenges and Malware Analysis! ☕   
   
 
 <br/>  
