@@ -12,7 +12,7 @@
 - 🌱 I’m currently studying for the OSEP certification. 📜
   
 
-- 👀 Ask me about anything related to CTF Challenges and Malware Analysis! ☕   
+- 👀 Ask me anything related to CTF Challenges and Malware Analysis! ☕   
   
 
 <br/>  
