@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andrei, a full-time Cyber Security Engineer, Security+, OSCP ans OSWP certified👨‍💻, working remotely since 2021🚀</div>  
+### <div align="center">I'm Andrei, a full-time Cyber Security Engineer, Security+, OSCP and OSWP certified👨‍💻, working remotely since 2021🚀</div>  
   
 
 - 🔭 I’m currently working at ASSIST Software. 🛠️
